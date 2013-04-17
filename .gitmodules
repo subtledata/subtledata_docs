@@ -1,3 +1,0 @@
-[submodule "source/json_docs/_themes"]
-	path = source/json_docs/_themes
-	url = https://github.com/mitsuhiko/flask-sphinx-themes
