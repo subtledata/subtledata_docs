@@ -4,12 +4,9 @@
    contain the root `toctree` directive.
 
 SubtleJSON
-=================================================
+==========
 
 Welcome to the documentation and tutorial for SubtleData's SubtleJSON API.  Here you can find all of the information you need to connect with point of sale systems and access the capabilities of the SubtleData system.
-
-Table of Contents
-^^^^^^^^^^^^^^^^^
 
 .. toctree::
    :maxdepth: 2
