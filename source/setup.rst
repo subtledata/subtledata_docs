@@ -2,4 +2,4 @@
 
 Location Setup
 ==============
-Test
+Coming Soon

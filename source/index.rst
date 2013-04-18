@@ -17,6 +17,12 @@ Table of Contents
    introduction
    compatibility
    setup
+   tutorial/basics
+   tutorial/users
+   tutorial/locations
+   tutorial/tickets
+   tutorial/ordering
+   tutorial/payment
    objects
    objects/locations
    objects/users
