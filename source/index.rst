@@ -23,11 +23,10 @@ Table of Contents
    tutorial/tickets
    tutorial/ordering
    tutorial/payment
-   objects
-   objects/locations
-   objects/users
-   objects/tickets
-   objects/ticket_payments
+   api/locations
+   api/users
+   api/tickets
+   api/ticket_payments
    libraries
 
 

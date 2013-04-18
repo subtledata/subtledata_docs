@@ -6,7 +6,7 @@ Tutorial: Locations
 Locations are the most important objects in SubtleData.  They represent each installation you have access to.  With locations, you can interact with ordering, ticketing, menuing, payments, etc..  But it all feeds back to a location.  So let's see one!
 
 Fetching a Location
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 Querying a location's details are very simple.  You hit the location endpoint with the location ID you are interested in.  If we want to fetch location 959, we make a GET call to: ::
 
@@ -69,7 +69,7 @@ Which will yield us: ::
 This is obviously a lot of information.  But a lot of very useful information.  We have our location's address, lat/lon, discount types, name, etc..  Pretty much all of the info we would need to display details for a location.
 
 Filtering Locations
-^^^^^^^^^^^^^^^^^^^
+-------------------
 
 Now what about if you want to see locations near a point?  Well, fortunately, that's easy too.  You make a GET call with the latitude, longitude, and radius (in miles) that you want to see locations for: ::
 
