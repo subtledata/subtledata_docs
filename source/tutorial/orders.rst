@@ -9,6 +9,13 @@ Orders contain items and modifiers which the user wants prepared for them at the
 
 .. _GitHub: https://github.com/subtledata/sxsw_ordering
 
+Create an Order
+---------------
+Coming Soon
+
+Add Items to an Order
+---------------------
+Coming Soon
 
 Next Steps
 ^^^^^^^^^^

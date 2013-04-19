@@ -2,4 +2,4 @@
 
 Location API
 ============
-Coming Soon
+Full Documentation coming soon.
