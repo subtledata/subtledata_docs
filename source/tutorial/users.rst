@@ -16,7 +16,7 @@ Users have the following attributes:
 **Please Note:** Getting user information requires a valid Device ID.  You should make sure to store at least one so that you can later access the user's details.
 
 Creating a User
-^^^^^^^^^^^^^^^
+---------------
 
 Creating a user is as simple as a single POST call.  We will POST to our create user endpoint: ::
    
@@ -47,7 +47,7 @@ We will get back a response showing our user's creation: ::
 **Again, please keep the user_id and device_id as they are very important identifiers.**
 
 Getting a User
-^^^^^^^^^^^^^^
+--------------
 
 Fetching a user is as simple as querying their user ID: ::
 
@@ -69,7 +69,7 @@ Which will give us: ::
 	}
 
 Authenticating a User
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 To authenticate a user, make a POST to our authentication endpoint: ::
 

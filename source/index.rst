@@ -18,8 +18,8 @@ Welcome to the documentation and tutorial for SubtleData's SubtleJSON API.  Here
    tutorial/users
    tutorial/locations
    tutorial/tickets
-   tutorial/ordering
-   tutorial/payment
+   tutorial/orders
+   tutorial/payments
    api/locations
    api/users
    api/tickets
