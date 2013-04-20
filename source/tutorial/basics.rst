@@ -62,6 +62,23 @@ Almost all objects in the SubtleData world have two IDs.  An ID unique to the Su
 
 The easy way to tell them apart is that all local IDs are prepended with a `pos_`.  These IDs are always local on the POS.  All other IDs are SubtleData ID numbers.
 
+Native Libraries
+----------------
+
+You can access SubtleData's API via SubtleLIBS, our native libraries.  They are available in:
+
+* Python
+* Objectve-C
+* Java
+* Javascript
+
+And coming soon:
+
+* Ruby
+* PHP
+
+You can read more about SubtleLIBS on our :ref:`libraries` page.
+
 Next Steps
 ^^^^^^^^^^
 
