@@ -27,6 +27,8 @@ You should use the proper location_id and append your api_key as usual.
 
 Credit Card Payment
 -------------------------------------
+Here is an example POST body for an example credit card payment: ::
+
 	{
 	  "user_id": 2248,
 	  "terminal_id": 631,
@@ -52,7 +54,7 @@ Credit Card Payment
 
 Cash Payment
 -------------------------------------
-Here is an example cash payment (note the tender_type_id of 5).
+Here is an POST body for an example cash payment (note the tender_type_id of 5). ::
 
 	{
 	  "user_id": 2248,
