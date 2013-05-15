@@ -27,7 +27,46 @@ You should use the proper location_id and append your api_key as usual.
 
 Credit Card Payment
 -------------------------------------
+	{
+	  "user_id": 2248,
+	  "terminal_id": 631,
+	  "revenue_center_id":1659,
+	  "device_id": 2033,
+	  "items":[
+	    {"item_id":184395, "quantity":1}
+	  ],
+	  "payments":[
+	    {
+	      "tender_type_id": 1,
+	      "name_on_card": "Bob Smith",
+	      "card_number": "4443332221110001",
+	      "expiration_month":"04",
+	      "expiration_year":"2015",
+	      "billing_zip":"22222",
+	      "amount_before_tip":12.05,
+	      "tip_amount": 0
+	    }
+	  ]
+	}
 
 
 Cash Payment
 -------------------------------------
+Here is an example cash payment (note the tender_type_id of 5).
+
+	{
+	  "user_id": 2248,
+	  "terminal_id": 631,
+	  "revenue_center_id":1659,
+	  "device_id": 2033,
+	  "items":[
+	    {"item_id":184395, "quantity":1}
+	  ],
+	  "payments":[
+	    {
+	      "tender_type_id": 5,
+	      "amount_before_tip":12.05,
+	      "tip_amount": 0
+	    }
+	  ]
+	}

@@ -24,6 +24,7 @@ Welcome to the documentation and tutorial for SubtleData's SubtleJSON API.  Here
    api/users
    api/tickets
    api/ticket_payments
+   api/concessions
    libraries
 
 * :ref:`genindex`
